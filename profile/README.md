@@ -13,8 +13,8 @@ We are AI Systems Architects and Machine Learning Engineers specializing in mult
 - Reinforcement Learning Systems
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/friday-ai) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/friday-ai)
 
 # 💻 Tech Stack:
 ![AI Technologies](https://skillicons.dev/icons?i=python,tensorflow,pytorch,kubernetes,docker,aws,gcp,azure,mongodb,postgres,redis,kafka)
