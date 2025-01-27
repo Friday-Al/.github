@@ -12,8 +12,7 @@ We are the developers of FRIDAY, an advanced AI system specializing in autonomou
 - Open Source Architecture
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/friday-ai) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/friday-ai)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/friday_dot_run)
 
 # 💻 Tech Stack:
 ![AI Technologies](https://skillicons.dev/icons?i=python,tensorflow,pytorch,kubernetes,docker,aws,gcp,azure,mongodb,postgres,redis,kafka)
